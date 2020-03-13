@@ -1,0 +1,5 @@
+package com.wq.training;
+
+public interface UserRepository {
+
+}
